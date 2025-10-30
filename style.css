@@ -6,7 +6,9 @@ body
  {   
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(0, 0, 0);
-    background-image: url(purple.png) ;
+    background-image: url(purple.webp) ;
+    max-width: 800px;
+    margin: auto;
  }
 
 
